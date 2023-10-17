@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem 'rspec'
-
 gem 'gimchi'
+gem 'relish'
+gem 'rspec'
